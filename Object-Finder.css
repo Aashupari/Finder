@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 25px;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.note{
+    color: black;
+    font-size: 20px;
+}
+
+#input{
+    border-radius: 10px;
+    width: 1000px;
+}
+
+canvas{
+    border: 5px solid white;
+    margin-top: 180px;
+    margin-bottom: 55px;
+    border-radius: 10px;
+    border-color: royalblue;
+    box-shadow: 5px 5px 5px gray;
+}
+
+#footer{
+    background-color: gray;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
